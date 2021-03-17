@@ -25,33 +25,61 @@ Acesse os links para visualizar o layout do projeto no Figma:
 
 ### Roadmap
 :heavy_check_mark: Protótipo navegável;
+
 :x: Reconhecer a voz;
+
 :x: Retornar o comando através de voz;
+
 :x: Retornar o comando através de texto;
+
 :x: Enviar push;
+
 :x: Exibir a cotação do dia;
+
 :x: Exibir notícias recentes sobre investimento;
+
 :x: Ler as notícias enviadas;
+
 :x: Calcular juros composto;
+
 :x: Comparar corretoras;
+
 :x: Converter taxa de câmbio;
+
 :x: Calcular meta com base no valor recebido;
+
 :x: Exibir códigos de ações;
+
 :x: Realizar teste de perfil de investidor;
+
 :x: Incluir cooperativa entre corretoras;
+
 :x: Incluir clube de investimento;
+
 :x: Incluir Educação para investimento;
+
 :x: Travar rotação da tela na vertical;
+
 :x: Tratar mensagem de erro para exibir em português;
+
 :x: Permitir Copiar texto de mensagem;
+
 :x: Permitir compartilhar texto copiado;
+
 :x: Exibir mensagens intermediadas pela aplicação ao selecionar um botão ou capturar voz;
+
 :x: Exibir valores monetários com 2 casas decimais;
+
 :x: Executar teclado digital do aparelho ao selecionar o campo de texto;
+
 :x: Redirecionar as telas respectivas ao click do botão (menu, voltar);
+
 :x: Bloquear upload de arquivo em mensagens;
+
 :x: Exibir barra de notificação ao executar o aplicativo;
+
 :x: Voltar para a tela anterior ao selecionar o botão back do aparelho e não sair do aplicativo;
+
 :x: Bloquear o botão enviar sem nenhum carácter;
 
 
