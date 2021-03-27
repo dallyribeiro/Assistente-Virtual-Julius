@@ -1,7 +1,7 @@
 # Assistente Virtual Julius
-O Julius é um Assistente virtual para pessoas querem saber mais sobre investimentos :money_with_wings::money_with_wings::money_with_wings:
+Projeto Julius consiste em um assistente virtual que auxiliará o usuário na tomada de decisões relacionadas a investimentos financeiros. O objetivo é desenvolver uma ferramenta 
+com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 
-Este é um projeto desenvolvido durante o 1º semestre de Banco de Dados da Fatec de São José dos Campos!
 
 
 ### Tecnologias
