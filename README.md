@@ -5,15 +5,15 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 
 
 ### Time
-- Tânia de Oliveira Cruz - [Linkedin](https://www.linkedin.com/in/t%C3%A2nia-cruz-30ab5812a/)
+- Tânia de Oliveira Cruz (Master) - [Linkedin](https://www.linkedin.com/in/t%C3%A2nia-cruz-30ab5812a/), [GitHub](https://github.com/taniacruzz)
 - Dallyane dos Santos Ribeiro - [Linkedin](https://www.linkedin.com/in/dallyaneribeiro/)
 - José Maria Reis dos Santos 
 - Kauã Walbon Santos Borgarelli Tavares
 - Luiz Felipe Gonçalves Braga - [Linkedin](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/)
-- Neylkson Diniz Pereira
+- Neylkson Diniz Pereira - [Linkedin](https://www.linkedin.com/in/neylkson-diniz-a3b9396b), [GitHub](https://github.com/Neylkson/Neylkson)
 - Renan Felipe Basiotte da Silva - [Linkedin](https://www.linkedin.com/in/renan-basiotte-b8570314a/)
 - Victor Araujo Paula Cavichioli - [Linkedin](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/)
-- Zaion Felippe Gomes Arruda
+- Zaion Felippe Gomes Arruda - [GitHub](https://github.com/ZaionKun)
 
 
 ### Pré-Requisitos do Cliente
@@ -62,7 +62,14 @@ Acesse os links para visualizar o layout do projeto no Figma:
 - [App](https://www.figma.com/proto/q7JuCB5NJFwRAlTSNgqDxO/Julius?node-id=89%3A442&viewport=317%2C-67%2C0.14545896649360657&scaling=scale-down);
 
 
+### Cronograma
 
+- Sprint 1 - 08/03/2021 a 28/03/2021
+- Sprint 2 - 29/03/2021 a 18/04/2021
+- Sprint 3 - 26/04/2021 a 16/05/2021
+- Sprint 4 - 17/05/2021 a 05/06/2021
+- Apresentação Final - 07/06/2021 a 11/06/2021
+- Feira de Soluções - 14/06/2021 a 18/06/2021
 
 ### Roadmap
 :heavy_check_mark: Protótipo navegável;
