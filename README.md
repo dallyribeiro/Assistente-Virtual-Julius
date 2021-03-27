@@ -49,13 +49,10 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 ### Tecnologias
 1) Linguagens de programação:
    - Python 3; Javascript; HTML5; SQL.
-
 2) Bibliotecas:
    - Python (Bibliotecas Back End para conexão com API´s prontas: beautifulsoup4, selenium, requests, SpeechRecognition, PyAudio, pyttsx3, vosk)
    - Javascript (React.JS)
    - SQL (mysql.connector)
-
-
 2) Softwares:
    - VS Code; Pycharm; Node.JS; Expo; MySQL Workbench 8.0 CE; xamp--control
 
