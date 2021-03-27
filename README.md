@@ -2,7 +2,7 @@
 Projeto Julius consiste em um assistente virtual que auxiliará o usuário na tomada de decisões relacionadas a investimentos financeiros. O objetivo é desenvolver uma ferramenta 
 com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 
-![alt text](C:\Users\tanic\OneDrive\Documentos\Fatec\logo-julius)
+![](logo-julius.jpg)
 
 
 ### Time
