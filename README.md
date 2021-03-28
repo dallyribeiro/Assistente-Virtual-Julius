@@ -6,14 +6,14 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 
 
 ### Time
-- Tânia de Oliveira Cruz (Master) - [Linkedin](https://www.linkedin.com/in/t%C3%A2nia-cruz-30ab5812a/), [GitHub](https://github.com/taniacruzz)
-- Dallyane dos Santos Ribeiro - [Linkedin](https://www.linkedin.com/in/dallyaneribeiro/)
+- Tânia de Oliveira Cruz (Master) - [LinkedIn](https://www.linkedin.com/in/t%C3%A2nia-cruz-30ab5812a/), [GitHub](https://github.com/taniacruzz)
+- Dallyane dos Santos Ribeiro - [LinkedIn](https://www.linkedin.com/in/dallyaneribeiro/)
 - José Maria Reis dos Santos - [GitHub](https://github.com/Jose0588) 
 - Kauã Walbon Santos Borgarelli Tavares - [GitHub](https://github.com/Borgarelli)
-- Luiz Felipe Gonçalves Braga - [Linkedin](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/)
-- Neylkson Diniz Pereira - [Linkedin](https://www.linkedin.com/in/neylkson-diniz-a3b9396b), [GitHub](https://github.com/Neylkson/Neylkson)
-- Renan Felipe Basiotte da Silva - [Linkedin](https://www.linkedin.com/in/renan-basiotte-b8570314a/), [GitHub](https://github.com/renanbst)
-- Victor Araujo Paula Cavichioli - [Linkedin](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/)
+- Luiz Felipe Gonçalves Braga - [LinkedIn](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/)
+- Neylkson Diniz Pereira - [LinkedIn](https://www.linkedin.com/in/neylkson-diniz-a3b9396b), [GitHub](https://github.com/Neylkson/Neylkson)
+- Renan Felipe Basiotte da Silva - [LinkedIn](https://www.linkedin.com/in/renan-basiotte-b8570314a/), [GitHub](https://github.com/renanbst)
+- Victor Araujo Paula Cavichioli - [LinkedIn](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/)
 - Zaion Felippe Gomes Arruda - [GitHub](https://github.com/ZaionKun)
 
 
@@ -72,6 +72,8 @@ Acesse os links para visualizar o layout do projeto no Figma:
 - Sprint 4 - 17/05/2021 a 05/06/2021
 - Apresentação Final - 07/06/2021 a 11/06/2021
 - Feira de Soluções - 14/06/2021 a 18/06/2021
+
+
 
 
 ### Clonar o repositório do GitHub:
