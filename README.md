@@ -12,7 +12,7 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 - Kauã Walbon Santos Borgarelli Tavares
 - Luiz Felipe Gonçalves Braga - [Linkedin](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/)
 - Neylkson Diniz Pereira - [Linkedin](https://www.linkedin.com/in/neylkson-diniz-a3b9396b), [GitHub](https://github.com/Neylkson/Neylkson)
-- Renan Felipe Basiotte da Silva - [Linkedin](https://www.linkedin.com/in/renan-basiotte-b8570314a/)
+- Renan Felipe Basiotte da Silva - [Linkedin](https://www.linkedin.com/in/renan-basiotte-b8570314a/), [GitHub](https://github.com/renanbst)
 - Victor Araujo Paula Cavichioli - [Linkedin](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/)
 - Zaion Felippe Gomes Arruda - [GitHub](https://github.com/ZaionKun)
 
