@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 
-# Assistente Virtual Julius
+<h1 align="center">Assistente Virtual Julius</h1>
+
 Projeto Julius consiste em um assistente virtual que auxiliará o usuário na tomada de decisões relacionadas a investimentos financeiros. O objetivo é desenvolver uma ferramenta 
 com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 
