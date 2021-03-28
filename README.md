@@ -44,6 +44,8 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
   - Educação financeira
   - Clube do investidor
   - Acompanhamento de metas (por meio de uma API).
+  
+
  
 
 ### Tecnologias
