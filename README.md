@@ -11,7 +11,7 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
   
 ### Time
 - Tânia de Oliveira Cruz (Master) - [LinkedIn](https://www.linkedin.com/in/t%C3%A2nia-cruz-30ab5812a/), [GitHub](https://github.com/taniacruzz)
-- Dallyane dos Santos Ribeiro - [LinkedIn](https://www.linkedin.com/in/dallyaneribeiro/)
+- Dallyane dos Santos Ribeiro - [LinkedIn](https://www.linkedin.com/in/dallyaneribeiro/), [GitHub](https://github.com/dallyribeiro)
 - José Maria Reis dos Santos - [GitHub](https://github.com/Jose0588) 
 - Kauã Walbon Santos Borgarelli Tavares - [GitHub](https://github.com/Borgarelli)
 - Luiz Felipe Gonçalves Braga - [LinkedIn](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/)
