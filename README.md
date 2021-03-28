@@ -38,7 +38,7 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 - Traçar perfil do usuário
 - Conversor de moedas
 - Comparativo entre financeiras
-- Retono do Código das ações
+- Retorno do Código das ações
 - Funcionalidades bonus: 
   - Notificação
   - Educação financeira
