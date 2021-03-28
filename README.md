@@ -42,16 +42,14 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 - Traçar perfil do usuário
 - Conversor de moedas
 - Comparativo entre financeiras
-- Retorno do Código das ações
-- Funcionalidades bonus: 
+- Retorno do código das ações
+- Funcionalidades bônus: 
   - Notificação
   - Educação financeira
   - Clube do investidor
-  - Acompanhamento de metas (por meio de uma API).
+  - Acompanhamento de metas (por meio de uma API)
   
-
  
-
 ### Tecnologias
 1) Linguagens de programação:
    - Python 3; Javascript; HTML5; SQL.
