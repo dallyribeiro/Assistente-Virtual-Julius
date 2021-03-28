@@ -54,7 +54,7 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 1) Linguagens de programação:
    - Python 3; Javascript; HTML5; SQL.
 2) Bibliotecas:
-   - Python (Bibliotecas Back End para conexão com API´s prontas: beautifulsoup4, selenium, requests, SpeechRecognition, PyAudio, pyttsx3, vosk)
+   - Python (Bibliotecas Back End para conexão com API´s prontas: beautifulsoup4, selenium, requests, SpeechRecognition, PyAudio, pyttsx3, vosk, gTTs, Playsound)
    - Javascript (React.JS)
    - SQL (mysql.connector)
 2) Softwares:
