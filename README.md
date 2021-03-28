@@ -69,7 +69,6 @@ Acesse os links para visualizar o layout do projeto no Figma:
 
 
 ### Cronograma
-
 - Sprint 1 - 08/03/2021 a 28/03/2021
 - Sprint 2 - 29/03/2021 a 18/04/2021
 - Sprint 3 - 26/04/2021 a 16/05/2021
@@ -78,6 +77,8 @@ Acesse os links para visualizar o layout do projeto no Figma:
 - Feira de Soluções - 14/06/2021 a 18/06/2021
 
 
+### Acompanhamento
+Através do [Trello](https://trello.com/b/9mZ8XWuA/julius)
 
 
 ### Clonar o repositório do GitHub:
