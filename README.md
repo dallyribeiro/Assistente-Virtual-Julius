@@ -1,10 +1,13 @@
+<!DOCTYPE html>
+
 # Assistente Virtual Julius
 Projeto Julius consiste em um assistente virtual que auxiliará o usuário na tomada de decisões relacionadas a investimentos financeiros. O objetivo é desenvolver uma ferramenta 
 com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 
-![](logo-julius.jpg)
-
-
+<p align="center">
+  <img src="https://github.com/dallyribeiro/Assistente-Virtual-Julius/blob/main/logo-julius.jpg" />
+</p>  
+  
 ### Time
 - Tânia de Oliveira Cruz (Master) - [LinkedIn](https://www.linkedin.com/in/t%C3%A2nia-cruz-30ab5812a/), [GitHub](https://github.com/taniacruzz)
 - Dallyane dos Santos Ribeiro - [LinkedIn](https://www.linkedin.com/in/dallyaneribeiro/)
