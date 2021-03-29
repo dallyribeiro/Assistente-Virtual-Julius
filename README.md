@@ -54,9 +54,6 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
   - Acompanhamento de metas (por meio de uma API)
 
 
-### Card da Sprint 1
-![](Card1.PNG)
-
 
 ### Tecnologias
 1) Linguagens de programação:
@@ -75,10 +72,10 @@ Acesse os links para visualizar o layout do projeto no Figma:
 
 
 ### Cronograma
-- [Sprint 1](https://github.com/dallyribeiro/Assistente-Virtual-Julius/blob/main/imageReadme/Sprint%201.png) - 08/03/2021 a 28/03/2021 - [Backlog](https://github.com/dallyribeiro/Assistente-Virtual-Julius/projects/1)
-- [Sprint 2](https://github.com/dallyribeiro/Assistente-Virtual-Julius/blob/main/imageReadme/Sprint%202.png) - 29/03/2021 a 18/04/2021
-- [Sprint 3](https://github.com/dallyribeiro/Assistente-Virtual-Julius/blob/main/imageReadme/Sprint%203.png) - 26/04/2021 a 16/05/2021
-- [Sprint 4](https://github.com/dallyribeiro/Assistente-Virtual-Julius/blob/main/imageReadme/Sprint%204.png) - 17/05/2021 a 05/06/2021
+- [Sprint 1](https://github.com/dallyribeiro/Assistente-Virtual-Julius/blob/main/imageReadme/Sprint%201.png) - 08/03/2021 a 28/03/2021 - [Backlog 1](https://github.com/dallyribeiro/Assistente-Virtual-Julius/projects/1)
+- [Sprint 2](https://github.com/dallyribeiro/Assistente-Virtual-Julius/blob/main/imageReadme/Sprint%202.png) - 29/03/2021 a 18/04/2021 - [Backlog 2](https://github.com/dallyribeiro/Assistente-Virtual-Julius/projects/2)
+- [Sprint 3](https://github.com/dallyribeiro/Assistente-Virtual-Julius/blob/main/imageReadme/Sprint%203.png) - 26/04/2021 a 16/05/2021 [Backlog 3] (https://github.com/dallyribeiro/Assistente-Virtual-Julius/projects/3)
+- [Sprint 4](https://github.com/dallyribeiro/Assistente-Virtual-Julius/blob/main/imageReadme/Sprint%204.png) - 17/05/2021 a 05/06/2021 [Backlog 4] (https://github.com/dallyribeiro/Assistente-Virtual-Julius/projects/4)
 - Apresentação Final - 07/06/2021 a 11/06/2021
 - Feira de Soluções - 14/06/2021 a 18/06/2021
 
