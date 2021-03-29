@@ -48,8 +48,12 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
   - Educação financeira
   - Clube do investidor
   - Acompanhamento de metas (por meio de uma API)
-  
- 
+
+
+## Card da Sprint 1
+![](Card_sprint1.pdf)
+
+
 ### Tecnologias
 1) Linguagens de programação:
    - Python 3; Javascript; HTML5; SQL.
