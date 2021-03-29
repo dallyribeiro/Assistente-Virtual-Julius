@@ -21,6 +21,10 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 - Zaion Felippe Gomes Arruda - [GitHub](https://github.com/ZaionKun)
 
 
+### Vídeo de Introdução ao Projeto
+[Youtube](https://www.youtube.com/watch?v=vTtysSErHII)
+
+
 ### Pré-Requisitos do Cliente
 - Responder a comando de voz ou sons específicos (palma, estalar de dedos, etc.);
 - Possuir no mínimo 8 ações distintas e de natureza distintas;
