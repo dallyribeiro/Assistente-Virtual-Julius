@@ -54,7 +54,7 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
   - Acompanhamento de metas (por meio de uma API)
 
 
-## Card da Sprint 1
+### Card da Sprint 1
 ![](Card1.PNG)
 
 
