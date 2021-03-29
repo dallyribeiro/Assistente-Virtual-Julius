@@ -51,7 +51,7 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 
 
 ## Card da Sprint 1
-![](Card_sprint1.pdf)
+![](Card1.PNG)
 
 
 ### Tecnologias
