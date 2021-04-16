@@ -37,6 +37,7 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 
 ### Backlog do Projeto
 - Interfaces (Splash Screen, Menu Inicial, Tela do Chat)
+- Estudo
 - Reconhecimento de fala
 - Retorno da voz
 - Cotação do dia
