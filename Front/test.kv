@@ -1,0 +1,117 @@
+<Gerenciador>:
+    Menu:
+        name: 'menu'
+    Tarefas:
+        name: 'tarefas'
+
+<Menu>:
+    BoxLayout:
+        orientation: 'vertical'
+        padding: 100
+        spacing: 10
+        BoxLayout:
+            orientation: 'horizontal'
+            Image:
+                source: 'perfil.png'
+                size_hint_y: None
+                height: 40
+                allow_stretch: True
+            Image:
+                source: 'icone-cotacao.png'
+                size_hint_y: None
+                height: 40
+                allow_stretch: True
+        BoxLayout:
+            orientation: 'horizontal'
+            Label:
+                text: 'Perfil do Investidor'
+            Label:
+                text: 'Cotação'
+        BoxLayout:
+            orientation: 'horizontal'
+            Image:
+                source: 'icone-noticia.png'
+                size_hint_y: None
+                height: 40
+                allow_stretch: True
+            Image:
+                source: 'icone-meta.png'
+                size_hint_y: None
+                height: 40
+                allow_stretch: True
+        BoxLayout:
+            orientation: 'horizontal'
+            Label:
+                text: 'Notícias'
+            Label:
+                text: 'Metas'
+        BoxLayout:
+            orientation: 'horizontal'
+            Image:
+                source: 'icone-juros.png'
+                size_hint_y: None
+                height: 40
+                allow_stretch: True
+            Image:
+                source: 'icone-taxa.png'
+                size_hint_y: None
+                height: 40
+                allow_stretch: True
+        BoxLayout:
+            orientation: 'horizontal'
+            Label:
+                text: 'Simulador de Juros Compostos'
+            Label:
+                text: 'Conversão de Taxa de Câmbio'
+        BoxLayout:
+            orientation: 'horizontal'
+            Image:
+                source: 'vector.png'
+                size_hint_y: None
+                height: 40
+                allow_stretch: True
+            Image:
+                source: 'icone-acao.png'
+                size_hint_y: None
+                height: 40
+                allow_stretch: True
+        BoxLayout:
+            orientation: 'horizontal'
+            Label:
+                text: 'Comparativo entre Corretoras'
+            Label:
+                text: 'Código de Ação'
+
+
+<Tarefas>:
+
+    BoxLayout:
+        orientation: 'vertical'
+        ScrollView
+            BoxLayout:
+                id: box
+                orientation: 'vertical'
+                size_hint_y:None
+                height: self.minimum_height
+        BoxLayout:
+            size_hint_y:None
+            height: 60
+            TextInput:
+                id: texto
+            Button:
+                text: '+'
+                size_hint_x: None
+                width: 60
+                on_release: root.addWidget()
+<Tarefa>:
+    size_hint_y: None
+    height: 200
+    Label:
+        id: label
+        font_size:30
+    Button:
+        text: 'x'
+        size_hint_x:None
+        width:60
+        on_release: app.root.get_screen('tarefas').ids.box.remove_widget(root)
+
