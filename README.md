@@ -48,6 +48,7 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 - Conversor de moedas
 - Comparativo entre financeiras
 - Retorno do código das ações
+- Integração Back-end e Front-end
 - Funcionalidades bônus: 
   - Notificação
   - Educação financeira
