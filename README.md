@@ -59,7 +59,7 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 ### Gráfico Burndown- Segunda Sprint
 
 <p>
-  <img src="https://github.com/dallyribeiro/Assistente-Virtual-Julius/blob/main/img_Burdown.PNG" />
+  <img src="https://github.com/dallyribeiro/Assistente-Virtual-Julius/blob/main/img_burndown1.PNG" />
 </p>  
    
    
