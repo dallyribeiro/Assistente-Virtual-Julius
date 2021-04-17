@@ -58,7 +58,7 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
 
 ### Gráfico Burndown
 
-<p align="Left">
+<p>
   <img src="img_Burdown" />
 </p>  
    
