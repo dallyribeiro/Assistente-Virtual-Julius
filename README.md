@@ -56,7 +56,15 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
   - Acompanhamento de metas (por meio de uma API)
 
 
+### Gráfico Burndown
 
+   <h1 align="center">Gráfico Burndown</h1>
+   
+   <p align="Left">
+  <img src="img_Burdown" />
+</p>  
+   
+   
 ### Tecnologias
 1) Linguagens de programação:
    - Python 3; Javascript; HTML5; SQL.
