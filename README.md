@@ -56,7 +56,7 @@ com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
   - Acompanhamento de metas (por meio de uma API)
 
 
-### Gráfico Burndown
+### Gráfico Burndown- Segunda Sprint
 
 <p>
   <img src="https://github.com/dallyribeiro/Assistente-Virtual-Julius/blob/main/img_Burdown.PNG" />
