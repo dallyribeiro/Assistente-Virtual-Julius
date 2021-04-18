@@ -70,7 +70,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 2) Bibliotecas:
    - Python (Bibliotecas Back End para conexão com API´s prontas: beautifulsoup4, selenium, requests, SpeechRecognition, PyAudio, pyttsx3, vosk, gTTs, Playsound)
    - Javascript (React.JS)
-   - SQL (mysql.connector)
+   - SQL (sqlite3)
 2) Softwares:
    - VS Code; Pycharm; Node.JS; Expo; MySQL Workbench 8.0 CE; xamp--control
 
