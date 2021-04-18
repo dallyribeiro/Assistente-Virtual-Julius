@@ -1,17 +1,22 @@
 from config import sai_som, lista_erros
 from random import choice
 
-def calculadora(entrada):
+def calculadora():
     resposta_erro_aleatoria = choice(lista_erros)
     try:
-        valor_inicial = float(input('Qual o valor inicial que você investirá?'))
+
         sai_som('Qual o valor inicial que você investirá?')
-        aporte = float(input('Quanto investirá por mês?'))
+        valor_inicial = float(input('Qual o valor inicial que você investirá?'))
+
         sai_som('Quanto investirá por mês?')
-        taxa_porc= float(input('Qual a taxa de rendimento mensal, em %?'))
+        aporte = float(input('Quanto investirá por mês?'))
+
         sai_som('Qual a taxa de rendimento mensal, em %?')
-        mes = int(input('Em quanto meses pretende resgatar seu investimento?'))
+        taxa_porc = float(input('Qual a taxa de rendimento mensal, em %?'))
+
         sai_som('Em quanto meses pretende resgatar seu investimento?')
+        mes = int(input('Em quanto meses pretende resgatar seu investimento?'))
+
         taxa = taxa_porc/100
         ##o calculo a seguir se refere a um aporte mensal de dinheiro
         result_aporte = aporte*(((1+taxa)**mes)-1)/taxa
