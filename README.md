@@ -2,8 +2,9 @@
 
 <h1 align="center">Assistente Virtual Julius</h1>
 
-Projeto Julius consiste em um assistente virtual que auxiliará o usuário na tomada de decisões relacionadas a investimentos financeiros. O objetivo é desenvolver uma ferramenta 
-com reconhecimento de voz, entregando o máximo de interatividade ao cliente.
+Projeto Julius consiste em um aplicativo de assistente virtual que auxiliará o usuário na tomada de decisões relacionadas a investimentos financeiros. Entre as funcionalidades estão código de ações, cotação do dia, conversor de moedas entre outros. O objetivo é desenvolver uma ferramenta
+por comando de voz capaz de trazer informações em tempo real entregando o máximo de interatividade ao cliente.
+O nosso aplicativo traz o que há de mais inovador no mercado financeiro nacional.
 
 <p align="center">
   <img src="https://github.com/dallyribeiro/Assistente-Virtual-Julius/blob/main/logo-julius.jpg" />
