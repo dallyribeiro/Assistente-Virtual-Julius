@@ -3,7 +3,7 @@ import sqlite3
 con = sqlite3.connect('corretoras.db')
 cur = con.cursor()
 
-def comparativo(entrada):
+def comparativo():
     print('''
         ===========================================================
         Bem-vindo ao comparativo de corretoras!
