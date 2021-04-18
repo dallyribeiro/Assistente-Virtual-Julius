@@ -1,7 +1,7 @@
 from forex_python.converter import CurrencyRates
 from config import sai_som
 
-def Conversor_Moedas(entrada):
+def Conversor_Moedas():
 
     c = CurrencyRates()
 
