@@ -5,7 +5,7 @@ import json
 requisição = requests.get('https://economia.awesomeapi.com.br/all')
 
 cotação = requisição.json()
-def cotacao(entrada):
+def cotacao():
     print('''
         =====================================================
         Bem-vindo(a) a cotação do dia!
