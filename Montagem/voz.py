@@ -9,7 +9,7 @@ from noticias import *
 from perfil import *
 from comparativo_corretoras import *
 from metas import *
-
+from codigo import*
 
 reproducao = pyttsx3.init()
 
@@ -60,7 +60,7 @@ def assistente():
                         #Conversor de moedas(Real, Dólar, Euro e Libra) (1)
                         if 'conversor' in entrada:
                             entrada = entrada.replace('Conversor',' ')
-                            resposta = Conversor_Moedas(entrada)
+                            resposta = Conversor_Moedas()
                             print('Assistente:{}'.format(resposta))
                             sai_som('{}'.format(resposta))       
                             
@@ -79,7 +79,7 @@ def assistente():
                             sai_som('{}'.format(resposta))
 
                         #Últimas notícias da investing (4)
-                        if 'noticias' in entrada:
+                        if 'notícias' in entrada:
                             entrada = entrada.replace('noticias', ' ')
                             resposta = informacoes()
                             print('Assistente:{}'.format(resposta))
@@ -89,6 +89,13 @@ def assistente():
                         if 'perfil' in entrada:
                             entrada = entrada.replace('perfil', ' ')
                             resposta = perfil()
+                            print('Assistente:{}'.format(resposta))
+                            sai_som('{}'.format(resposta))
+
+                        #Codigo
+                        if 'código' in entrada:
+                            entrada = entrada.replace('codigo', ' ')
+                            resposta = codigo()
                             print('Assistente:{}'.format(resposta))
                             sai_som('{}'.format(resposta))
 
@@ -122,6 +129,8 @@ if __name__ == '__voz__':
 assistente()
 
                
+
+            
 
                 
 
