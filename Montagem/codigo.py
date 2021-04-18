@@ -1,43 +1,18 @@
-import time
-import requests
-import pandas as pd
-from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.webdriver.firefox.options import Options
-import json
+#Pergunta para o cliente
+cod_acao = str(input('De qual empresa deseja saber o código de ação? '))  
 
+#Imprimi o valor e printa o código de ação
+if cod_acao == ('Netflix'):
+    print('NFLX34') 
+    
+elif cod_acao == ('Itaú'):
+    print('O código de ação dessa empresa é: ITUB3F')
 
-#1.Pegar conteúdo HTML a partir da URL
+elif cod_acao == ('Vale'):
+    print('O código de ação dessa empresa é: VALE5')
 
-url = "https://www.guiainvest.com.br/lista-acoes/default.aspx?listaacaopage=1"
+elif cod_acao == ('Petrobras'):
+    print('O código de ação dessa empresa é: PETR4F')
 
-
-option = Options()
-
-option.headless = True
-
-driver = webdriver.chrome()
-
-driver.get(url)
-
-time.sleep(10)
-
-
-
-driver.find_element_by_xpath("//div[@class='rgMasterTable']//tr//td//[@hlNome]").click()
-
-element = driver.find_element_by_xpath("//div[@class='rgMasterTable']//tr")
-
-html_content = element.get_attribute('outerHTML')
-
-#2. Parsear o conteúdo HTML - BeatifulSoup
-
-soup = BeautifulSoup(html_content, 'html.parser')
-
-table = soup.find(name='table')
-
-#3. Estrurar contpudo em uma Data Frame - Pandas
-
-df_full = pd.red_html( str(table) )[0].head('10')
-
-driver.quit()
+elif cod_acao == ('Facebook'):
+    print('O código de ação dessa empresa é: FB')
