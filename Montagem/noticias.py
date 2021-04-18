@@ -10,7 +10,7 @@ site = BeautifulSoup(conteudo, 'html.parser')
 noticias = site.find('div', attrs={'class': 'col-12 col-lg-6'})
 noticias2 = site.find('div', attrs={'class': 'col-12 col-lg-6 px-0 px-lg-3 mb-3 mb-lg-0'})
 
-def informacoes(entrada):
+def informacoes():
     #Notícia 1:
     atributo1 = noticias.find('div', attrs={'class': 'row m-0 border-t-mobile py-3 py-lg-0 pb-lg-3'})
     titulo1 = atributo1.find('span', attrs={'class': 'hl-title hl-title-4'})
