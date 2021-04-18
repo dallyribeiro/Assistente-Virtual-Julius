@@ -1,6 +1,6 @@
 from config import sai_som
 
-def metas(entrada):
+def metas():
 
    sai_som('Quanto deseja investir? ')
    num1 = float(input('Quanto deseja investir?'))
